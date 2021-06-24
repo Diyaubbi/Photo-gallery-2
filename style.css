@@ -1,0 +1,25 @@
+.container
+{
+    text-align: center;
+}
+
+/*Start your code from here */
+
+#myCarousel{
+    background-color: dodgerblue;
+    
+}
+#myCarousel img{
+    height: 300px;
+    margin-top: 40px;
+}
+.carousel-inner p{
+    margin-bottom: 50px;
+    margin-top: 50px;
+    color: aliceblue;
+    font-size: 20px;
+}
+img{
+        height: 300px;
+    margin-top: 40px;
+}
